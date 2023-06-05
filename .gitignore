@@ -9,10 +9,20 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
+/[Tt]emp/[Uu]nityLockfile
+/Library/CurrentLayout-default.dwlt
+/Library/ArtifactDB
+/Library/InspectorExpandedItems.asset
+/Library/SourceAssetDB
+/Library/StateCache/
+/Temp/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
+
+# Asset meta data should only be ignored when the corresponding asset is also ignored
+!/[Aa]ssets/**/*.meta
 
 # Recordings can get excessive in size
 /[Rr]ecordings/
